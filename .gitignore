@@ -1,0 +1,5 @@
+venv/
+.dist/
+*.h5
+__pycache__/
+*.pyc
